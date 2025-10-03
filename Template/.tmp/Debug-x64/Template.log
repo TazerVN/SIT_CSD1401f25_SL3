@@ -1,7 +1,8 @@
-﻿  main.c
-C:\Users\TazerVN\Documents\github\C\SIT_CSD1401_CP_TEMPLATE\Template\Template\main.c(17,32): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-C:\Users\TazerVN\Documents\github\C\SIT_CSD1401_CP_TEMPLATE\Template\Template\main.c(17,57): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-  Template.vcxproj -> C:\Users\TazerVN\Documents\github\C\SIT_CSD1401_CP_TEMPLATE\Template\bin\Debug-x64\Template.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\.tmp\Debug-x64\) contains files shared from another project (Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\main.c(17,32): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\main.c(17,57): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  Template.vcxproj -> C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\bin\Debug-x64\SL3.exe
   3 File(s) copied
   1 File(s) copied
   1 File(s) copied
