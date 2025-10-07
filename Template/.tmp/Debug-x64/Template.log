@@ -1,8 +1,31 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\.tmp\Debug-x64\) contains files shared from another project (Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  utils.c
-C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\utils.c(23,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
-C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\utils.c(23,72): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
-C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\utils.c(35,1): warning C4716: 'AreCirclesIntersecting': must return a value
+  game.c
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(11,2): warning C4091: 'typedef ': ignored on left of 'Player' when no variable is declared
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(18,2): warning C4091: 'typedef ': ignored on left of 'Health' when no variable is declared
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(24,2): warning C4091: 'typedef ': ignored on left of 'Zone' when no variable is declared
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(49,56): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(50,71): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(50,118): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(67,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(121,32): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(79,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(125,30): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(125,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(131,30): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(131,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(135,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(139,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(140,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(141,30): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(141,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(142,27): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(142,34): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(167,26): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void *(__cdecl *)(void)'
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(167,26): warning C4047: 'function': 'void *(__cdecl *)(void)' differs in levels of indirection from 'void (__cdecl *)()'
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(167,26): warning C4022: 'zone_draw': pointer mismatch for actual parameter 2
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(168,27): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void *(__cdecl *)(void)'
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(168,27): warning C4047: 'function': 'void *(__cdecl *)(void)' differs in levels of indirection from 'void (__cdecl *)()'
+C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\Template\game.c(168,27): warning C4022: 'zone_draw': pointer mismatch for actual parameter 2
   Template.vcxproj -> C:\Users\User\Documents\SIT\git\SIT_CSD1401f25_SL3\Template\bin\Debug-x64\SL3.exe
   4 File(s) copied
   1 File(s) copied

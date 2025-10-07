@@ -7,15 +7,21 @@
       "RelativeMoniker": "D:0:0:{3D4D45C1-52DD-49E6-9BF1-D309F119538B}|Template\\Template.vcxproj|solutionrelative:Template\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL2\\Template\\mainmenu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D4D45C1-52DD-49E6-9BF1-D309F119538B}|Template\\Template.vcxproj|C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL3\\Template\\Template\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D4D45C1-52DD-49E6-9BF1-D309F119538B}|Template\\Template.vcxproj|solutionrelative:Template\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D4D45C1-52DD-49E6-9BF1-D309F119538B}|Template\\Template.vcxproj|C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL3\\Template\\Template\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D4D45C1-52DD-49E6-9BF1-D309F119538B}|Template\\Template.vcxproj|solutionrelative:Template\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL2\\Template\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL2\\Template\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL2\\Template\\mainmenu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,8 +31,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.c",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL2\\Template\\game.c",
+              "RelativeDocumentMoniker": "..\\..\\SIT_CSD1401f25_SL2\\Template\\game.c",
+              "ToolTip": "C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL2\\Template\\game.c",
+              "RelativeToolTip": "..\\..\\SIT_CSD1401f25_SL2\\Template\\game.c",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-06T06:14:32.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL2\\Template\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\SIT_CSD1401f25_SL2\\Template\\main.c",
+              "ToolTip": "C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL2\\Template\\main.c",
+              "RelativeToolTip": "..\\..\\SIT_CSD1401f25_SL2\\Template\\main.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-06T06:14:26.056Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -35,14 +65,14 @@
               "RelativeDocumentMoniker": "Template\\game.c",
               "ToolTip": "C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL3\\Template\\Template\\game.c",
               "RelativeToolTip": "Template\\game.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-10-05T07:13:45.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "utils.c",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL3\\Template\\Template\\utils.c",
               "RelativeDocumentMoniker": "Template\\utils.c",
@@ -50,12 +80,11 @@
               "RelativeToolTip": "Template\\utils.c",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-05T06:55:41.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:55:41.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "mainmenu.c",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL2\\Template\\mainmenu.c",
               "RelativeDocumentMoniker": "..\\..\\SIT_CSD1401f25_SL2\\Template\\mainmenu.c",
@@ -63,12 +92,11 @@
               "RelativeToolTip": "..\\..\\SIT_CSD1401f25_SL2\\Template\\mainmenu.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-05T06:54:24.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:54:24.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\SIT\\git\\SIT_CSD1401f25_SL3\\Template\\Template\\main.c",
               "RelativeDocumentMoniker": "Template\\main.c",
@@ -76,8 +104,7 @@
               "RelativeToolTip": "Template\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-03T01:34:54.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T01:34:54.226Z"
             }
           ]
         }
